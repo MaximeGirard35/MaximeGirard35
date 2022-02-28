@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour, ici Maxime, développeur Front End 👋
 
 <!--
 **MaximeGirard35/MaximeGirard35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
