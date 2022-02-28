@@ -45,8 +45,11 @@ Je suis actuellement à la recherche d'un stage de deux mois ou plus dans le Dé
 
 Lead Dev Front sur le projet O'Kdo :
 Projet de "Gift Finder" en équipe de 5 (3 front / 2 back), basé sur un algorithme de matching profils/produits selon différents critères.
+
 Lien de repo : https://github.com/O-clock-Xandar/projet-O-Kdo-front
+
 Présentation du projet : https://youtu.be/yzJMK9HX1Eo?t=517
+
 Lien du site : Très prochainement
  
 
