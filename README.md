@@ -36,6 +36,11 @@ Je suis actuellement à la recherche d'un stage de deux mois ou plus dans le Dé
  #### Collaborative network:
  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WilliamSchmitt1609)
  
+### Langages
+
+:fr: 
+:uk:
+ 
 
 <!--
 **MaximeGirard35/MaximeGirard35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
